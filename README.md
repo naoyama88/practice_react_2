@@ -1,3 +1,9 @@
+## Practice React
+
+This is project from Udemy "Modern React with Redux [2019 Update]"
+
+---------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
